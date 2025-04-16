@@ -66,13 +66,21 @@ View how it's resolved step-by-step
 
 .
 ├── app.py                   # Initializes GUI and manages user interaction
+
 ├── main.py                  # Entry point for launching the app
+
 ├── deadlock_core.py         # Core logic for deadlock detection
+
 ├── deadlock_resolution.py   # Strategies and steps for resolving deadlocks
+
 ├── realtimeDetection.py     # Monitors and detects deadlocks in real time
+
 ├── scheduling.py            # Simulates process scheduling behavior
+
 ├── test.py                  # Test cases and debugging utilities
+
 ├── visualization.py         # Handles graph drawing and visualization
+
 └── README.md
 
 
